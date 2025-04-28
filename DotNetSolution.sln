@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Philosophers", "Philosophers\Philosophers.csproj", "{0FAF0324-1510-4E59-B7B9-FC4B8A1B40B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People", "People\People.csproj", "{3E2DB973-5E79-4B05-B81C-D52453C0B60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FAF0324-1510-4E59-B7B9-FC4B8A1B40B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAF0324-1510-4E59-B7B9-FC4B8A1B40B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAF0324-1510-4E59-B7B9-FC4B8A1B40B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAF0324-1510-4E59-B7B9-FC4B8A1B40B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2DB973-5E79-4B05-B81C-D52453C0B60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2DB973-5E79-4B05-B81C-D52453C0B60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2DB973-5E79-4B05-B81C-D52453C0B60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2DB973-5E79-4B05-B81C-D52453C0B60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA6FA70D-DCC6-46F8-8042-7A5A91B73C69}
+	EndGlobalSection
+EndGlobal
